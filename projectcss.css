@@ -1,0 +1,121 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+}
+
+#logoo{
+    width: 20%;
+    height: 10%;
+}
+nav{
+    height: 15%;
+}
+.navLink{
+    text-align: center;
+    padding-top: 3%;
+    height: 100%;
+    width: 100%;
+}
+#carouselExampleSlidesOnly{
+    height: 20%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    animation: defilement 1s linear infinite;
+
+}
+.carousel{
+    animation: defilement 1s linear infinite;
+
+}
+img.slidea{
+    height: 100%;
+    width: 100%;
+}
+.d-inline-block{
+    height: 100%;
+    width: 20%;
+    padding: 0%;
+    margin: 0%;
+}
+.menu{
+    width: 20%;
+}
+.menubar{
+    width: 100%;
+}
+.form-container{
+    margin: 6%;
+}
+#Accueil{
+    padding: 5%;
+}
+.contenu{
+    margin-top: 5%;
+}
+.parti{
+    height: 100%;
+}
+.mesArticles{
+    height: 100%;
+    width: 100%;
+    margin-top: 1%;
+}
+
+.articlea{
+    height: 30%;
+    margin-top: 1%;
+}
+.suite-body{
+    height: 50%;
+}
+.cardText{
+    height: 100%;
+}
+
+
+.reseau{
+    height: 10%;
+    width: 10%;
+}
+.my-color{
+    background-color: #343a40;!important;
+    color: white;
+}
+
+.modal-article{
+
+    color: #343a40;
+    height: 80%;
+}
+.article-dialog{
+    height: 100%;
+    overflow-y: initial; !important
+}
+.article-content{
+    height: 100%;
+
+}
+.article-body{
+
+    overflow-y: auto;
+    height: 60%;
+}
+
+
+
+.conn{
+    margin: 3%;
+}
+#devis_btn{
+    width: 100%;
+}
+#articleid{
+    margin-top: 30%;
+}
+#conn-insc{
+
+}
+
+
